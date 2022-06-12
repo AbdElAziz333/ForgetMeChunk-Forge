@@ -1,0 +1,32 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+license = "All rights reserved"
+
+issueTrackerURL="https://github.com/AbdElAziz333/ForgetMeChunk-Forge/issues"
+
+[[mods]]
+modId = "forgetmechunk"
+version = "${version}"
+displayName = "ForgetMeChunk (Forge)"
+#updateJSONURL="https://changeme.dev/updates.json"
+#displayURL="https://changeme.dev/"
+logoFile="icon.png"
+credits="BreadLoaf___"
+authors="AbdElAziz333"
+description = '''
+A performance mod that fix large freeze frames.
+'''
+
+[[dependencies.forgetmechunk]]
+modId = "forge"
+mandatory = true
+versionRange = "[40,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.forgetmechunk]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18.2,)"
+ordering = "NONE"
+side = "BOTH"
