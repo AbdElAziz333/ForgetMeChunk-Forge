@@ -3,7 +3,7 @@ plugins {
     id "maven-publish"
 }
 
-sourceCompatibility = targetCompatibility = JavaVersion.VERSION_17
+sourceCompatibility = targetCompatibility = JavaVersion.VERSION_1_8
 
 archivesBaseName = project.archives_base_name
 version = project.mod_version
@@ -33,6 +33,7 @@ dependencies {
 
 processResources {
     inputs.property "version", project.version
+
     filesMatching("META-INF/mods.toml") {
         expand "version": project.version
     }
@@ -40,12 +41,12 @@ processResources {
 
 tasks.withType(JavaCompile) {
     options.encoding = "UTF-8"
-    options.release = 17
-}
 
-//java {
-    //withSourcesJar()
-//}
+    def targetVersion = 8
+    if (JavaVersion.current().isJava9Compatible()) {
+        options.release = targetVersion
+    }
+}
 
 jar {
     manifest {
@@ -67,9 +68,6 @@ publishing {
             artifact(remapJar) {
                 builtBy remapJar
             }
-            //artifact(sourcesJar) {
-            //    builtBy remapSourcesJar
-            //}
         }
     }
 

@@ -1,7 +1,7 @@
 {
   "pack": {
-    "description": "Resources for forgetmechunk",
-    "pack_format": 8,
-    "_comment": "pack_format 8 is the current format for Minecraft 1.18.2. Be aware may have changed by the time you use this template!"
+    "description": "Resources for examplemod",
+    "pack_format": 6,
+    "_comment": "pack_format 6 is the current format for Minecraft 1.16.5. Be aware may have changed by the time you use this template!"
   }
 }
