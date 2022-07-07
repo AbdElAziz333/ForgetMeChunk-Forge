@@ -1,6 +1,6 @@
 modLoader = "javafml"
 loaderVersion = "[36,)"
-license = "All rights reserved"
+license = "MIT"
 
 issueTrackerURL="https://github.com/AbdElAziz333/ForgetMeChunk-Forge/issues"
 
@@ -9,7 +9,7 @@ modId = "forgetmechunk"
 version = "${version}"
 displayName = "ForgetMeChunk (Forge)"
 # updateJSONURL="https://changeme.dev/updates.json" #optional
-# displayURL="https://changeme.dev/"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/forgetmechunk-forge"
 logoFile="icon.png"
 credits="BreadLoaf___"
 authors="AbdElAziz333"

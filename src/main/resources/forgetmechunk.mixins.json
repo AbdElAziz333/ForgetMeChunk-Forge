@@ -7,6 +7,6 @@
    },
   "minVersion": "0.8",
   "mixins": [
-    "ClientPacketListenerMixin"
+    "ClientPlayNetworkHandlerMixin"
   ]
 }
