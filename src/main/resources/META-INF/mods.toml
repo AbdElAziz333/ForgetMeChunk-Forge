@@ -11,8 +11,8 @@ displayName = "ForgetMeChunk (Forge)"
 # updateJSONURL="https://changeme.dev/updates.json"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/forgetmechunk-forge"
 logoFile="icon.png"
-credits="BreadLoaf___"
-authors="AbdElAziz333"
+credits = "BreadLoaf___"
+authors = "AbdElAziz"
 description = '''
 A performance mod for Minecraft that fix large freeze frames.
 '''

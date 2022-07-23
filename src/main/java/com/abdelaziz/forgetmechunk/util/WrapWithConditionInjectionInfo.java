@@ -1,4 +1,4 @@
-package com.abdelaziz333.forgetmechunk.util;
+package com.abdelaziz.forgetmechunk.util;
 
 import org.objectweb.asm.Opcodes;
 import org.objectweb.asm.Type;

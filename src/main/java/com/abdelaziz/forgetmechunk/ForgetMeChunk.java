@@ -1,4 +1,4 @@
-package com.abdelaziz333.forgetmechunk;
+package com.abdelaziz.forgetmechunk;
 
 //import com.abdelaziz333.forgetmechunk.util.MixinExtrasBootstrap;
 import net.minecraftforge.fml.common.Mod;

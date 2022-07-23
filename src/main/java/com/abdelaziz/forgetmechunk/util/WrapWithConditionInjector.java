@@ -1,4 +1,4 @@
-package com.abdelaziz333.forgetmechunk.util;
+package com.abdelaziz.forgetmechunk.util;
 
 import org.apache.commons.lang3.ArrayUtils;
 import org.objectweb.asm.Opcodes;

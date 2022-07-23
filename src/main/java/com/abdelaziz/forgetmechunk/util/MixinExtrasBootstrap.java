@@ -1,4 +1,4 @@
-package com.abdelaziz333.forgetmechunk.util;
+package com.abdelaziz.forgetmechunk.util;
 
 import org.spongepowered.asm.mixin.injection.struct.InjectionInfo;
 
