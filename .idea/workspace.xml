@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02d63839-ea6d-486d-b828-0be3b925a989" name="Changes" comment="update forge version and reformat code and cleanup">
+    <list default="true" id="02d63839-ea6d-486d-b828-0be3b925a989" name="Changes" comment="forgot">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/ForgetMeChunk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/ForgetMeChunk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/mixin/ClientPlayNetworkHandlerMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/mixin/ClientPlayNetworkHandlerMixin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/util/CompatibilityHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/util/CompatibilityHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/util/MixinExtrasAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/util/MixinExtrasAP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/util/MixinExtrasBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/util/MixinExtrasBootstrap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/util/WrapWithCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/util/WrapWithCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/util/WrapWithConditionInjectionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/util/WrapWithConditionInjectionInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/util/WrapWithConditionInjector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/util/WrapWithConditionInjector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/mods.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/forgetmechunk.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/forgetmechunk.mixins.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +22,17 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ForgetMeChunk(Forge)" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -42,7 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="x1.19" />
+        <entry key="$PROJECT_DIR$" value="x1.16.5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,18 +53,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/abdel/Desktop/Modded Minecraft/My Mods/Small Performance Mods/ForgetMeChunk(Forge)",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abdel/Desktop/Modded Minecraft/My Mods/Small Performance Mods/ForgetMeChunk(Forge)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\abdel\Desktop\Modded Minecraft\My Mods\Small Performance Mods\ForgetMeChunk(Forge)" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.ForgetMeChunk(Forge) [build]">
+    <configuration name="ForgetMeChunk(Forge) [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ForgetMeChunk(Forge) [build]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
