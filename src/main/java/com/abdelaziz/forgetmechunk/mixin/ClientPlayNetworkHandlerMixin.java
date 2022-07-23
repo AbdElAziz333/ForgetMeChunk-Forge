@@ -1,6 +1,6 @@
 package com.abdelaziz.forgetmechunk.mixin;
 
-import com.abdelaziz333.forgetmechunk.util.WrapWithCondition;
+import com.abdelaziz.forgetmechunk.util.WrapWithCondition;
 import net.minecraft.client.network.ClientPlayNetworkHandler;
 import net.minecraft.util.math.ChunkSectionPos;
 import net.minecraft.world.chunk.light.LightingProvider;

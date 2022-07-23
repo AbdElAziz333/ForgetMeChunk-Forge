@@ -1,6 +1,6 @@
 package com.abdelaziz.forgetmechunk.util;
 
-import com.abdelaziz333.forgetmechunk.util.MixinExtrasBootstrap;
+import com.abdelaziz.forgetmechunk.util.MixinExtrasBootstrap;
 import org.spongepowered.asm.util.logging.MessageRouter;
 
 import javax.annotation.processing.*;
