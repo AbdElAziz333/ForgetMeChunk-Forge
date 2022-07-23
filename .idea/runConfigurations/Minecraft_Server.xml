@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Minecraft Server" type="Application" factoryName="Application">
+    <envs><env name="MOD_CLASSES" value="main%%C:\Users\abdel\Desktop\Modded Minecraft\My Mods\Small Performance Mods\ForgetMeChunk(Forge)\build\resources\main;main%%C:\Users\abdel\Desktop\Modded Minecraft\My Mods\Small Performance Mods\ForgetMeChunk(Forge)\build\classes\java\main"/><env name="MCP_MAPPINGS" value="loom.stub"/><env name="MCP_VERSION" value="20210115.111550"/><env name="FORGE_VERSION" value="36.2.39"/><env name="FORGE_GROUP" value="net.minecraftforge"/><env name="target" value="fmluserdevserver"/><env name="MC_VERSION" value="1.16.5"/></envs>
+    <option name="MAIN_CLASS_NAME" value="net.fabricmc.devlaunchinjector.Main" />
+    <module name="ForgetMeChunk(Forge).main" />
+    <option name="PROGRAM_PARAMETERS" value="nogui" />
+    <option name="VM_PARAMETERS" value="-Dfabric.dli.config=C:\Users\abdel\Desktop\Modded@@0020Minecraft\My@@0020Mods\Small@@0020Performance@@0020Mods\ForgetMeChunk(Forge)\.gradle\loom-cache\launch.cfg -Dfabric.dli.env=server -XX:+IgnoreUnrecognizedVMOptions --add-exports=java.base/sun.security.util=ALL-UNNAMED --add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming --add-opens=java.base/java.util.jar=ALL-UNNAMED -Dfabric.dli.main=net.minecraftforge.userdev.LaunchTesting" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run/" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
