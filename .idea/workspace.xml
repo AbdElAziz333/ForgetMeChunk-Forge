@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02d63839-ea6d-486d-b828-0be3b925a989" name="Changes" comment="update forge version and reformat code and cleanup">
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/ForgetMeChunk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/ForgetMeChunk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/mixin/ClientPlayNetworkHandlerMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/mixin/ClientPlayNetworkHandlerMixin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/util/CompatibilityHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/util/CompatibilityHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/util/MixinExtrasAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/util/MixinExtrasAP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/util/MixinExtrasBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/util/MixinExtrasBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/util/WrapWithCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/util/WrapWithCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/util/WrapWithConditionInjectionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/util/WrapWithConditionInjectionInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abdelaziz333/forgetmechunk/util/WrapWithConditionInjector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abdelaziz/forgetmechunk/util/WrapWithConditionInjector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/mods.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/forgetmechunk.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/forgetmechunk.mixins.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="x1.19" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2CKMb3sJRE8iBuk9s1IOjm9VwWe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/abdel/Desktop/Modded Minecraft/My Mods/Small Performance Mods/ForgetMeChunk(Forge)",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abdel\Desktop\Modded Minecraft\My Mods\Small Performance Mods\ForgetMeChunk(Forge)" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02d63839-ea6d-486d-b828-0be3b925a989" name="Changes" comment="" />
+      <created>1658546891470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658546891470</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update forge version and reformat code and cleanup">
+      <created>1658547226802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658547226802</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/x1.18" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="update forge version and reformat code and cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="update forge version and reformat code and cleanup" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
