@@ -1,4 +1,4 @@
-package com.abdelaziz333.forgetmechunk.mixin;
+package com.abdelaziz.forgetmechunk.mixin;
 
 import com.abdelaziz333.forgetmechunk.util.WrapWithCondition;
 import net.minecraft.client.network.ClientPlayNetworkHandler;
