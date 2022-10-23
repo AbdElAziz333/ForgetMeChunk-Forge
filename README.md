@@ -2,7 +2,6 @@
 
 # ForgetMeChunk for Minecraft Forge
 
-![Github License](https://img.shields.io/github/license/AbdElAziz333/ForgetMeChunk-Forge)
 ![Github Issues](https://img.shields.io/github/issues/AbdElAziz333/ForgetMeChunk-Forge)
 ![Curseforge Downloads](https://cf.way2muchnoise.eu/632973.svg)
 [![Architectury Forge Loom](https://img.shields.io/badge/Built%20with-Architectury%20Forge%20Loom-orange)](https://github.com/architectury/architectury-loom)
