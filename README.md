@@ -15,9 +15,5 @@ However this casues a memory leak, this memory leak is reset by changing dimensi
 ForgetMeChunk (Forge) is impossible without the high-quality contributions made by the original ForgetMeChunk developer, and as such, i would like to ask you support him.
 
 
-### License
-ForgetMeChunk (Forge) is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the license file.
-
-
 ### Issues and Feature Requests
 If you'd like to get help with the mod, feel free to open an issue here on GitHub, and if you want to propose new features or otherwise contribute to the mod, i will gladly accept pull requests, as well!
