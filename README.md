@@ -9,3 +9,11 @@
 
 ForgetMeChunk (Forge) is a simple client side performance mod for Minecraft that prevents light map unloads on the client, this eliminates the fps drops caused by crossing certain chunk borders.
 However this casues a memory leak, this memory leak is reset by changing dimension or leaving the server/world and i will fix this issue soon.
+
+
+### Support the Original Creator
+ForgetMeChunk (Forge) is impossible without the high-quality contributions made by the original ForgetMeChunk developer, and as such, i would like to ask you support him.
+
+
+### Issues and Feature Requests
+If you'd like to get help with the mod, feel free to open an issue here on GitHub, and if you want to propose new features or otherwise contribute to the mod, i will gladly accept pull requests, as well!
